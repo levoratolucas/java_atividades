@@ -1,0 +1,29 @@
+
+Oi Natalia Deuner!
+
+O pedido SWAG está de volta, e precisamos confirmar seu endereço para garantir a entrega correta. Pode nos ajudar com:
+
+Nome Completo:
+Endereço:
+Número:
+Bairro:
+Cidade:
+Estado:
+CEP:
+Se preferir, só mandar aqui mesmo. Ah, qualquer dúvida, estamos à disposição!
+
+Abraços,
+Lucas Levorato
+Yoobe RD Versary
+📞 41992512323
+✉️ atendimento@yoobe.co
+
+
+
+data valor rastreio descrição  
+
+(valida se osdados da planilha fretes esta igual {compara rastreio com rastreio aba frete},{compara valores})
+
+
+
+

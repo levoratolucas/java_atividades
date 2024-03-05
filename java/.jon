@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "RO",
+        "tipo": "01",
+        "dtHrCriado": "2024-03-01T19:08:28",
+        "descricao": "Objeto em transferu00eancia - por favor aguarde",
+        "unidade": {
+            "codSro": "82520981",
+            "tipo": "Agu00eancia dos Correios",
+            "endereco": {
+                "cidade": "CURITIBA",
+                "uf": "PR"
+            }
+        },
+        "unidadeDestino": {
+            "tipo": "Unidade de Tratamento",
+            "endereco": {
+                "cidade": "CURITIBA",
+                "uf": "PR"
+            }
+        }
+    },
+    {
+        "codigo": "PO",
+        "tipo": "01",
+        "dtHrCriado": "2024-03-01T18:34:25",
+        "descricao": "Objeto postado",
+        "unidade": {
+            "codSro": "82520981",
+            "tipo": "Agu00eancia dos Correios",
+            "endereco": {
+                "cidade": "CURITIBA",
+                "uf": "PR"
+            }
+        }
+    }
+]

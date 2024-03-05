@@ -1,0 +1,272 @@
+
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Boticário', 'Game de Dados', 'jan.-24', 231.03, 8),
+('Boticário', 'Game de Dados', 'jan.-24', 47.28, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 46.94, 2),
+('Boticário', 'Game de Dados', 'jan.-24', 35.30, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 17.59, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 50.42, 2),
+('Boticário', 'Game de Dados', 'jan.-24', 51.49, 2),
+('Boticário', 'Game de Dados', 'jan.-24', 26.28, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 52.94, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 25.21, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 26.28, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 60.05, 2),
+('Boticário', 'Game de Dados', 'jan.-24', 118.96, 3),
+('Boticário', 'Game de Dados', 'jan.-24', 45.32, 2),
+('Boticário', 'Game de Dados', 'jan.-24', 27.34, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 52.56, 2),
+('Boticário', 'Game de Dados', 'jan.-24', 79.22, 2),
+('Boticário', 'Game de Dados', 'jan.-24', 47.28, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 36.78, 1),
+('Boticário', 'Game de Dados', 'jan.-24', 37.50, 2),
+('Boticário', 'Game de Dados', 'jan.-24', 42.52, 3),
+('Boticário', 'Game de Dados', 'fev.-24', 0.00, 4),
+('Boticário', 'Game de Dados', 'fev.-24', 0.00, 1),
+('Boticário', 'Game de Dados', 'fev.-24', 0.00, 3),
+('Boticário', 'Game de Dados', 'fev.-24', 0.00, 1),
+('Boticário', 'Game de Dados', 'fev.-24', 0.00, 2),
+('Boticário', 'Game de Dados', 'fev.-24', 0.00, 1),
+('Boticário', 'Game de Dados', 'fev.-24', 0.00, 4),
+('Boticário', 'Game de Dados', 'fev.-24', 0.00, 4),
+('Boticário', 'gb tech', 'fev.-24', 0.00, 1),
+('AME/Bseller', 'AME +', 'fev.-24', 0.00, 2),
+('AME/Bseller', 'AME +', 'fev.-24', 0.00, 139),
+('Boticario', 'GB tech', 'fev.-24', 0.00, 1),
+('BR Consórcios', 'Ecommerce', 'jan.-24', 0.00, 1),
+('BR Consórcios', 'Ecommerce', 'jan.-24', 355.93, 1),
+('BR Consórcios', 'Ecommerce', 'jan.-24', 15.79, 1),
+('BR Consórcios', 'Ecommerce', 'fev.-24', 0.00, 1),
+('BR Consórcios', 'Mousepad', 'jan.-24', 0.00, 1),
+('Contabilizei', 'Kits de aniversário (3,6 e 7 anos)', 'jan.-24', 0.00, 1),
+('Extreme Digital', 'Inauguração EDX', 'jan.-24', 25.21, 1),
+('Extreme Digital', 'Inauguração EDX', 'jan.-24', 731.81, 20),
+('Extreme Digital', 'Inauguração EDX', 'jan.-24', 547.77, 15),
+('Founder Institute', '1 Moletom + 1 Camisa', 'fev.-24', 0.00, 1),
+('Lojacorr', 'Aniversariante 2023', 'jan.-24', 36.44, 2),
+('Lojacorr', 'Aniversariante 2023', 'fev.-24', 0.00, 1),
+('Lojacorr', 'Ecommerce', 'jan.-24', 125.77, 5),
+('Lojacorr', 'Ecommerce', 'jan.-24', 0.00, 1),
+('Lojacorr', 'Ecommerce', 'jan.-24', 38.46, 1),
+('Lojacorr', 'Ecommerce', 'jan.-24', 10.16, 1),
+('Lojacorr', 'Ecommerce', 'jan.-24', 26.28, 1),
+('Lojacorr', 'Ecommerce', 'fev.-24', 0.00, 2);
+-- Matera - Amostra em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Matera', 'Amostra', 'jan.-24', 25.21, 1);
+
+-- Matera - Kit Baby 2023 em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Matera', 'Kit Baby 2023', 'jan.-24', 664.87, 9),
+('Matera', 'Kit Baby 2023', 'jan.-24', 53.36, 1);
+
+-- Matera - Matera Station em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Matera', 'Matera Station', 'jan.-24', 6.473.75, 249),
+('Matera', 'Matera Station', 'jan.-24', 67.39, 3),
+('Matera', 'Matera Station', 'jan.-24', 135.59, 5),
+('Matera', 'Matera Station', 'jan.-24', 27.34, 1),
+('Matera', 'Matera Station', 'jan.-24', 42.55, 2),
+('Matera', 'Matera Station', 'jan.-24', 50.42, 2),
+('Matera', 'Matera Station', 'jan.-24', 25.21, 1),
+('Matera', 'Matera Station', 'fev.-24', 0.00, 1),
+('Matera', 'Matera Station', 'fev.-24', 0.00, 1),
+('Matera', 'Matera Station', 'fev.-24', 0.00, 1);
+
+-- Matera - Onboarding Kit em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Matera', 'Onboarding Kit', 'jan.-24', 368.10, 9),
+('Matera', 'Onboarding Kit', 'jan.-24', 113.11, 4),
+('Matera', 'Onboarding Kit', 'jan.-24', 65.48, 2),
+('Matera', 'Onboarding Kit', 'jan.-24', 133.58, 3),
+('Matera', 'Onboarding Kit', 'jan.-24', 44.10, 1),
+('Matera', 'Onboarding Kit', 'jan.-24', 115.58, 2),
+('Matera', 'Onboarding Kit', 'jan.-24', 198.18, 5),
+('Matera', 'Onboarding Kit', 'jan.-24', 16.46, 1),
+('Matera', 'Onboarding Kit', 'jan.-24', 13.67, 1),
+('Matera', 'Onboarding Kit', 'fev.-24', 0.00, 1),
+('Matera', 'Onboarding Kit', 'fev.-24', 0.00, 4),
+('Matera', 'Onboarding Kit', 'fev.-24', 0.00, 1);
+
+-- Matera - Resgate estoque - campanha em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Matera', 'Resgate estoque - campanha', 'jan.-24', 66.78, 1);
+-- Nexton - Utility Swags em fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Nexton', 'Utility Swags', 'fev.-24', 0.00, 1);
+
+-- Olby - Birthday Gift em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Olby', 'Birthday Gift', 'jan.-24', 0.00, 1),
+('Olby', 'Birthday Gift', 'jan.-24', 27.34, 1);
+
+-- Paraná Banco - Onboarding Kit em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Paraná Banco', 'Onboarding Kit', 'jan.-24', 93.22, 4),
+('Paraná Banco', 'Onboarding Kit', 'jan.-24', 106.42, 4),
+('Paraná Banco', 'Onboarding Kit', 'jan.-24', 46.14, 1),
+('Paraná Banco', 'Onboarding Kit', 'jan.-24', 32.94, 1),
+('Paraná Banco', 'Onboarding Kit', 'jan.-24', 59.81, 2),
+('Paraná Banco', 'Onboarding Kit', 'fev.-24', 0.00, 4),
+('Paraná Banco', 'Onboarding Kit', 'fev.-24', 0.00, 3);
+-- Pipefy - Finance Kickoff em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Pipefy', 'Finance Kickoff', 'jan.-24', 0.00, 1);
+
+-- Pipefy - IDtag - Crachas em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Pipefy', 'IDtag - Crachas', 'jan.-24', 0.00, 1),
+('Pipefy', 'IDtag - Crachas', 'jan.-24', 43.33, 3),
+('Pipefy', 'IDtag - Crachas', 'jan.-24', 0.00, 1),
+('Pipefy', 'IDtag - Crachas', 'jan.-24', 0.00, 1),
+('Pipefy', 'IDtag - Crachas', 'jan.-24', 172.10, 4),
+('Pipefy', 'IDtag - Crachas', 'jan.-24', 25.21, 1),
+('Pipefy', 'IDtag - Crachas', 'fev.-24', 0.00, 1),
+('Pipefy', 'IDtag - Crachas', 'fev.-24', 0.00, 2),
+('Pipefy', 'IDtag - Crachas', 'fev.-24', 0.00, 1),
+('Pipefy', 'IDtag - Crachas', 'fev.-24', 0.00, 2),
+('Pipefy', 'IDtag - Crachas - Pet', 'fev.-24', 0.00, 1);
+
+-- Pipefy - Onboarding Kit em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Pipefy', 'Onboarding Kit', 'jan.-24', 13.67, 1),
+('Pipefy', 'Onboarding Kit', 'jan.-24', 46.61, 2),
+('Pipefy', 'Onboarding Kit', 'jan.-24', 89.04, 2),
+('Pipefy', 'Onboarding Kit', 'jan.-24', 27.34, 1),
+('Pipefy', 'Onboarding Kit', 'jan.-24', 38.26, 1),
+('Pipefy', 'Onboarding Kit', 'jan.-24', 75.08, 1),
+('Pipefy', 'Onboarding Kit', 'jan.-24', 63.81, 2),
+('Pipefy', 'Onboarding Kit', 'fev.-24', 0.00, 1),
+('Pipefy', 'Onboarding Kit', 'fev.-24', 0.00, 2);
+
+-- Pipefy - Resgate estoque - campanha em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Pipefy', 'Resgate estoque - campanha', 'jan.-24', 13.67, 1);
+-- PM3 - Ações de employer branding em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('PM3', 'Ações de employer branding', 'jan.-24', 56.10, 1);
+
+-- RD Station - Baby Doer 2023 e RDVersary em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('RD Station', 'Baby Doer 2023', 'jan.-24', 132.46, 5),
+('RD Station', 'RDVersary', 'jan.-24', 27.34, 1),
+('RD Station', 'RDVersary', 'jan.-24', 159.99, 9),
+('RD Station', 'RDVersary', 'jan.-24', 0.00, 1),
+('RD Station', 'RDVersary', 'jan.-24', 16.97, 1),
+('RD Station', 'RDVersary', 'jan.-24', 44.36, 2),
+('RD Station', 'RDVersary', 'jan.-24', 35.30, 1),
+('RD Station', 'RDVersary', 'jan.-24', 263.74, 10),
+('RD Station', 'RDVersary', 'jan.-24', 42.55, 2),
+('RD Station', 'RDVersary', 'fev.-24', 0.00, 1),
+('RD Station', 'RDVersary', 'fev.-24', 0.00, 1),
+('RD Station', 'RDVersary', 'fev.-24', 0.00, 1),
+('RD Station', 'RDVersary', 'fev.-24', 0.00, 1),
+('RD Station', 'RDVersary', 'fev.-24', 0.00, 1);
+
+-- RD Station - Resgate estoque - campanha em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('RD Station', 'Resgate estoque - campanha', 'jan.-24', 75.77, 1);
+-- Risotolândia - Programa de reconhecimento em fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Risotolândia', 'Programa de reconhecimento', 'fev.-24', 0.00, 25);
+
+-- Softplan - Fim de ano - Ciclos antigos em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Softplan', 'Fim de ano - Ciclos antigos', 'jan.-24', 35.72, 2),
+('Softplan', 'Fim de ano - Ciclos antigos', 'jan.-24', 19.38, 1),
+('Softplan', 'Fim de ano - Ciclos antigos', 'jan.-24', 17.86, 1);
+
+-- Softplan - Softplayer A+ Ciclo 11 em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Softplan', 'Softplayer A+ Ciclo 11', 'jan.-24', 1853.65, 90),
+('Softplan', 'Softplayer A+ Ciclo 11', 'jan.-24', 17.86, 1),
+('Softplan', 'Softplayer A+ Ciclo 11', 'jan.-24', 17.86, 1),
+('Softplan', 'Softplayer A+ Ciclo 11', 'jan.-24', 17.86, 1),
+('Softplan', 'Softplayer A+ Ciclo 11', 'jan.-24', 35.72, 2),
+('Softplan', 'Softplayer A+ Ciclo 11', 'jan.-24', 17.86, 1),
+('Softplan', 'Softplayer A+ Ciclo 11', 'fev.-24', 0.00, 1),
+('Softplan', 'Softplayer A+ Ciclo 11', 'fev.-24', 0.00, 1),
+('Softplan', 'Softplayer A+ Ciclo 11', 'fev.-24', 0.00, 1),
+('Softplan', 'Softplayer A+ Ciclo 11', 'fev.-24', 0.00, 12);
+
+-- Talentx - Onboarding Kit em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Talentx', 'Onboarding Kit', 'jan.-24', 32.94, 1),
+('Talentx', 'Onboarding Kit', 'fev.-24', 0.00, 1);
+-- The Bridge - 1 ano de empresa em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('The Bridge', '1 ano de empresa', 'jan.-24', 10.16, 1),
+('The Bridge', '1 ano de empresa', 'jan.-24', 26.28, 1),
+('The Bridge', '1 ano de empresa', 'jan.-24', 26.28, 1),
+('The Bridge', '1 ano de empresa', 'fev.-24', 0.00, 11),
+('The Bridge', '1 ano de empresa', 'fev.-24', 0.00, 2),
+('The Bridge', '1 ano de empresa', 'fev.-24', 0.00, 1);
+
+-- The Bridge - Onboarding Kit em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('The Bridge', 'Onboarding Kit', 'jan.-24', 0.00, 1),
+('The Bridge', 'Onboarding Kit', 'jan.-24', 246.27, 8),
+('The Bridge', 'Onboarding Kit', 'jan.-24', 0.00, 1),
+('The Bridge', 'Onboarding Kit', 'jan.-24', 38.46, 1),
+('The Bridge', 'Onboarding Kit', 'jan.-24', 27.34, 1),
+('The Bridge', 'Onboarding Kit', 'jan.-24', 384.91, 10),
+('The Bridge', 'Onboarding Kit', 'fev.-24', 0.00, 1),
+('The Bridge', 'Onboarding Kit', 'fev.-24', 0.00, 4),
+('The Bridge', 'Onboarding Kit', 'fev.-24', 0.00, 1),
+('The Bridge', 'Onboarding Kit', 'fev.-24', 0.00, 1),
+('The Bridge', 'Onboarding Kit', 'fev.-24', 0.00, 1),
+('The Bridge', 'Onboarding Kit', 'fev.-24', 0.00, 2);
+
+-- The Bridge - Platform em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('The Bridge', 'Platform', 'jan.-24', 199.34, 13);
+-- V4 Company - Ecommerce em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('V4 Company', 'Ecommerce', 'jan.-24', 75.77, 1),
+('V4 Company', 'Ecommerce', 'jan.-24', 93.84, 3),
+('V4 Company', 'Ecommerce', 'jan.-24', 51.02, 1),
+('V4 Company', 'Ecommerce', 'jan.-24', 25.21, 1),
+('V4 Company', 'Ecommerce', 'jan.-24', 38.46, 1),
+('V4 Company', 'Ecommerce', 'jan.-24', 16.97, 1),
+('V4 Company', 'Ecommerce', 'jan.-24', 55.15, 1),
+('V4 Company', 'Ecommerce', 'fev.-24', 0.00, 2),
+('V4 Company', 'Ecommerce', 'fev.-24', 0.00, 1),
+('V4 Company', 'Ecommerce', 'fev.-24', 0.00, 1);
+
+-- Voke - Lojinha Vokere em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Voke', 'Lojinha Vokere', 'jan.-24', 195.23, 2),
+('Voke', 'Lojinha Vokere', 'jan.-24', 217.31, 3),
+('Voke', 'Lojinha Vokere', 'jan.-24', 0.00, 1);
+-- Yampi - Brindes para evento Influence BR em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Yampi', 'Brindes para evento Influence BR', 'jan.-24', 0.00, 1);
+
+-- Yampi - Cartas para placas - programa de recompensas em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Yampi', 'Cartas para placas - programa de recompensas', 'jan.-24', 2176.72, 1);
+
+-- Yampi - Programa de reconhecimento em janeiro e fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Yampi', 'Programa de reconhecimento', 'jan.-24', 2294.28, 104),
+('Yampi', 'Programa de reconhecimento', 'jan.-24', 548.47, 23),
+('Yampi', 'Programa de reconhecimento', 'jan.-24', 554.10, 25),
+('Yampi', 'Programa de reconhecimento', 'jan.-24', 472.27, 21),
+('Yampi', 'Programa de reconhecimento', 'fev.-24', 0.00, 16),
+('Yampi', 'Programa de reconhecimento', 'fev.-24', 0.00, 1),
+('Yampi', 'Programa de reconhecimento', 'fev.-24', 0.00, 39),
+('Yampi', 'Programa de reconhecimento', 'fev.-24', 0.00, 3),
+('Yampi', 'Programa de reconhecimento', 'fev.-24', 0.00, 14),
+('Yampi', 'Programa de reconhecimento', 'fev.-24', 0.00, 44),
+('Yampi', 'Programa de reconhecimento', 'fev.-24', 0.00, 1),
+('Yampi', 'Programa de reconhecimento', 'fev.-24', 0.00, 16);
+
+-- Yoobe - Amostra em fevereiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Yoobe', 'Amostra', 'fev.-24', 0.00, 1);
+
+-- Yoobe - Ecommerce em janeiro de 2024
+INSERT INTO financeiro (cliente, projeto, data, valor, quantidade) VALUES
+('Yoobe', 'Ecommerce', 'jan.-24', 0.00, 1);
+
+
